@@ -1,0 +1,8 @@
+:root {
+    --el-color-primary: #3473e6 !important;
+}
+
+.search_box .el-input-group__append{
+    background-color: var(--el-color-primary);
+    color: #fff;
+   }
